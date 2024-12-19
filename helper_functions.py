@@ -8,7 +8,6 @@ from text_to_doc_converter import get_doc_chunks
 import os
 import requests
 
-
 def get_chroma_client():
     """
     Returns a Chroma vector store instance.
