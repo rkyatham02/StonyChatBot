@@ -3,3 +3,6 @@ venv/
 data/
 __pycache__
 .env
+.st
+stonybrook-90e8c-firebase-adminsdk-61p8n-a7a6a76602.json
+firebase_key.json
